@@ -1,0 +1,8 @@
+# fok-blog
+fok's blog
+
+```
+The hexo theme next from https://github.com/iissnan/hexo-theme-next
+Document: http://theme-next.iissnan.com/
+Thanks to the author: https://github.com/iissnan
+```

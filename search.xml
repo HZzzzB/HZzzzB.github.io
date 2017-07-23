@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[TO be the Best of Yourself]]></title>
+    <url>%2F2017%2F07%2F23%2FTO-be-the-Best-of-Yourself%2F</url>
+    <content type="text"><![CDATA[firstsecondthird]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[基于GitHub Pages 和 Hexo 搭建简单博客]]></title>
     <url>%2F2017%2F07%2F21%2F%E5%9F%BA%E4%BA%8EGitHub-Pages-%E5%92%8C-Hexo-%E6%90%AD%E5%BB%BA%E7%AE%80%E5%8D%95%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"><![CDATA[在 Window 10 下， 基于GitHub Pages 和 Hexo 搭建简单博客。 主要采用了 NexT 这款简洁的主题(作者)。 “工欲善其事必先利其器”， 让我们一步一步来搭建出属于自己的简单博客， がんばってください！必要的网址：Github Pages, Hexo, 主题 NexT, NexT 文档必要的环境与软件：Git, Node.jsWindows 下安装软件双击安装程序即可参考：https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/安装 Hexo打开Git Bash, 输入123456cd /dnpm install hexo-cli -g # 安装 Hexohexo init MyBlognpm installhexo ghexo s通过 http://localhost:4000/, 看到内置主题的博客设置 Hexo 主题 (NexT):12cd MyBloggit clone https://github.com/iissnan/hexo-theme-next themes/next（参考）部署 Hexo 到 Github Pages注册 GitHub 账号（假设账号名为：username, 可根据自己喜好设置用户名）.创建仓库名为： username.github.io， username 一定得和 GitHub 账号一致（为了能够使用 username.github.io 作为域名直接访问自己的博客， GitHub Pages 官网上强调了）。需要学习将项目托管到 GitHub 上。参考部署到 GitHub 上的准备：1npm install hexo-deployer-git --save部署到 GitHub，需要在配置文件_config.xml中作如下修改 (注意那个 .git 后缀)：1234deploy: type: git repo: git@github.com:username/username.github.io.git branch: master将之前创建的博客仓库克隆到本地：12cd /d/MyBloggit clone https://github.com/username/username.github.io.git .deploy/username.github.io创建一个部署博客的脚本(blog-deploy.sh)：123456hexo generatecp -R public/* .deploy/username.github.iocd .deploy/username.github.iogit add .git commit -m “update blog”git push origin master执行过程中可能需要让你输入Github账户的用户名及密码，按照提示操作即可。创建博客文章12cd /d/MyBloghexo new &quot;My-First-Blog&quot;然后在 D:\MyBlog\source_posts 下修改对应的 .md 文件即可。文章的开头都形如：1234title: My First Blogdate: 2017-07-21 10:32:26tags: My-First-Blogcategories: 教程享受写作(Enjoy it!)关于写作格式: 参考]]></content>

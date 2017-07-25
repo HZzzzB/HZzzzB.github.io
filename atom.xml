@@ -4,9 +4,9 @@
   <subtitle>Memories</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://HZzzzB.github.io/"/>
+  <link href="https://hzzzzb.co/"/>
   <updated>2017-07-24T07:33:58.268Z</updated>
-  <id>http://HZzzzB.github.io/</id>
+  <id>https://hzzzzb.co/</id>
   
   <author>
     <name>HZzzzB</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>To be the Best of Yourself</title>
-    <link href="http://HZzzzB.github.io/2017/07/23/To-be-the-Best-of-Yourself/"/>
-    <id>http://HZzzzB.github.io/2017/07/23/To-be-the-Best-of-Yourself/</id>
+    <link href="https://hzzzzb.co/2017/07/23/To-be-the-Best-of-Yourself/"/>
+    <id>https://hzzzzb.co/2017/07/23/To-be-the-Best-of-Yourself/</id>
     <published>2017-07-23T15:25:55.000Z</published>
     <updated>2017-07-24T07:33:58.268Z</updated>
     
@@ -30,17 +30,17 @@
     
     </summary>
     
-      <category term="人生哲思" scheme="http://HZzzzB.github.io/categories/%E4%BA%BA%E7%94%9F%E5%93%B2%E6%80%9D/"/>
+      <category term="人生哲思" scheme="https://hzzzzb.co/categories/%E4%BA%BA%E7%94%9F%E5%93%B2%E6%80%9D/"/>
     
     
-      <category term="Self-Improvement" scheme="http://HZzzzB.github.io/tags/Self-Improvement/"/>
+      <category term="Self-Improvement" scheme="https://hzzzzb.co/tags/Self-Improvement/"/>
     
   </entry>
   
   <entry>
     <title>基于GitHub Pages 和 Hexo 搭建简单博客</title>
-    <link href="http://HZzzzB.github.io/2017/07/21/%E5%9F%BA%E4%BA%8EGitHub-Pages-%E5%92%8C-Hexo-%E6%90%AD%E5%BB%BA%E7%AE%80%E5%8D%95%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://HZzzzB.github.io/2017/07/21/基于GitHub-Pages-和-Hexo-搭建简单博客/</id>
+    <link href="https://hzzzzb.co/2017/07/21/%E5%9F%BA%E4%BA%8EGitHub-Pages-%E5%92%8C-Hexo-%E6%90%AD%E5%BB%BA%E7%AE%80%E5%8D%95%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://hzzzzb.co/2017/07/21/基于GitHub-Pages-和-Hexo-搭建简单博客/</id>
     <published>2017-07-21T13:32:28.000Z</published>
     <updated>2017-07-23T13:39:35.073Z</updated>
     
@@ -52,17 +52,17 @@
     
     </summary>
     
-      <category term="教程" scheme="http://HZzzzB.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="https://hzzzzb.co/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="GitHub-Hexo" scheme="http://HZzzzB.github.io/tags/GitHub-Hexo/"/>
+      <category term="GitHub-Hexo" scheme="https://hzzzzb.co/tags/GitHub-Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://HZzzzB.github.io/2017/07/21/hello-world/"/>
-    <id>http://HZzzzB.github.io/2017/07/21/hello-world/</id>
+    <link href="https://hzzzzb.co/2017/07/21/hello-world/"/>
+    <id>https://hzzzzb.co/2017/07/21/hello-world/</id>
     <published>2017-07-21T02:32:26.000Z</published>
     <updated>2017-07-21T14:00:16.592Z</updated>
     
@@ -74,10 +74,10 @@
     
     </summary>
     
-      <category term="教程" scheme="http://HZzzzB.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="https://hzzzzb.co/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="Hello-My-Blog" scheme="http://HZzzzB.github.io/tags/Hello-My-Blog/"/>
+      <category term="Hello-My-Blog" scheme="https://hzzzzb.co/tags/Hello-My-Blog/"/>
     
   </entry>
   

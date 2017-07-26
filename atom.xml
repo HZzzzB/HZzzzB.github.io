@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hzzzzb.co/"/>
-  <updated>2017-07-26T01:42:00.773Z</updated>
+  <updated>2017-07-26T07:23:34.119Z</updated>
   <id>https://hzzzzb.co/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2017-07-26-yield-in-python</title>
+    <title>深入理解 yield 语法</title>
     <link href="https://hzzzzb.co/2017/07/26/2017-07-26-yield-in-python/"/>
     <id>https://hzzzzb.co/2017/07/26/2017-07-26-yield-in-python/</id>
     <published>2017-07-26T01:22:54.000Z</published>
-    <updated>2017-07-26T01:42:00.773Z</updated>
+    <updated>2017-07-26T07:23:34.119Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a>
 ]]></content>
@@ -32,10 +32,10 @@
     
     </summary>
     
-      <category term="Python" scheme="https://hzzzzb.co/categories/Python/"/>
+      <category term="Python 语法" scheme="https://hzzzzb.co/categories/Python-%E8%AF%AD%E6%B3%95/"/>
     
     
-      <category term="深入理解 yield 语法" scheme="https://hzzzzb.co/tags/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-yield-%E8%AF%AD%E6%B3%95/"/>
+      <category term="Python" scheme="https://hzzzzb.co/tags/Python/"/>
     
   </entry>
   

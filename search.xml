@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[STL Remove 的用法]]></title>
+    <url>%2F2017%2F07%2F26%2F2017-07-26-Remove%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>C++ 语法</category>
+      </categories>
+      <tags>
+        <tag>C++ STL</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[深入理解 yield 语法]]></title>
     <url>%2F2017%2F07%2F26%2F2017-07-26-yield-in-python%2F</url>
     <content type="text"><![CDATA[]]></content>

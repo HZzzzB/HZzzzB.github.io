@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hzzzzb.co/"/>
-  <updated>2017-07-26T07:23:34.119Z</updated>
+  <updated>2017-07-26T07:32:24.640Z</updated>
   <id>https://hzzzzb.co/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>STL Remove 的用法</title>
+    <link href="https://hzzzzb.co/2017/07/26/2017-07-26-Remove/"/>
+    <id>https://hzzzzb.co/2017/07/26/2017-07-26-Remove/</id>
+    <published>2017-07-26T07:31:29.000Z</published>
+    <updated>2017-07-26T07:32:24.640Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+    
+    </summary>
+    
+      <category term="C++ 语法" scheme="https://hzzzzb.co/categories/C-%E8%AF%AD%E6%B3%95/"/>
+    
+    
+      <category term="C++ STL" scheme="https://hzzzzb.co/tags/C-STL/"/>
+    
+  </entry>
   
   <entry>
     <title>深入理解 yield 语法</title>

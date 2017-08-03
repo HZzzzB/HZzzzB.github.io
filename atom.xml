@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hzzzzb.co/"/>
-  <updated>2017-08-03T11:48:38.498Z</updated>
+  <updated>2017-08-03T12:03:42.956Z</updated>
   <id>https://hzzzzb.co/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Effective STL 50 条经验</title>
+    <link href="https://hzzzzb.co/2017/08/03/Effective-STL-50-%E6%9D%A1%E7%BB%8F%E9%AA%8C/"/>
+    <id>https://hzzzzb.co/2017/08/03/Effective-STL-50-条经验/</id>
+    <published>2017-08-03T11:54:30.000Z</published>
+    <updated>2017-08-03T12:03:42.956Z</updated>
+    
+    <content type="html"><![CDATA[<p>内容取自于书本《Effective STL》， 本文将《Effective STL》中有效使用STL的经验汇集，便于翻阅和学习。</p>
+<a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;内容取自于书本《Effective STL》， 本文将《Effective STL》中有效使用STL的经验汇集，便于翻阅和学习。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Adobe Acraobat Pro DC 最新版本安装与激活</title>
@@ -56,15 +76,15 @@
     <link href="https://hzzzzb.co/2017/07/26/2017-07-26-Remove/"/>
     <id>https://hzzzzb.co/2017/07/26/2017-07-26-Remove/</id>
     <published>2017-07-26T07:31:29.000Z</published>
-    <updated>2017-07-26T07:32:24.640Z</updated>
+    <updated>2017-08-03T12:23:20.848Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a>
+    <content type="html"><![CDATA[<p>假设标准的STL</p>
+<a id="more"></a>
 ]]></content>
     
     <summary type="html">
     
-      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-
+      &lt;p&gt;假设标准的STL&lt;/p&gt;
     
     </summary>
     

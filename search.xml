@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Effective STL 50 条经验]]></title>
+    <url>%2F2017%2F08%2F03%2FEffective-STL-50-%E6%9D%A1%E7%BB%8F%E9%AA%8C%2F</url>
+    <content type="text"><![CDATA[内容取自于书本《Effective STL》， 本文将《Effective STL》中有效使用STL的经验汇集，便于翻阅和学习。]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Adobe Acraobat Pro DC 最新版本安装与激活]]></title>
     <url>%2F2017%2F08%2F03%2FAdobe-Acraobat-Pro-DC-%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E5%AE%89%E8%A3%85%E4%B8%8E%E6%BF%80%E6%B4%BB%2F</url>
     <content type="text"><![CDATA[Window 10 下 Adobe Acraobat Pro DC 安装教程，破解方法和所遇问题的解决办法。 参考网址： Adobe官网：软件下载https://acrobat.adobe.com/cn/zh-Hans/free-trial-download-thanks.html#!&amp;from_ims=true&amp;api=authorize&amp;old_hash= 破解教程及破解软件下载 ：http://free.appnee.com/v0-9-2-amt-emulator-adobe-all-products-universal-crack-patcher/ 安装过程遇到问题及解决方案：http://windowsreport.com/fix-error-1500-another-installation-progress-windows-10/ 安装 Adobe 软件过程中，出现错误：1Error 1500 &quot;Another Installation is in Progress you must complete the installation before continuing this one&quot; when trying to down load a program always appears. Cannot complete the download (网上很多办法不起作用…) 解决办法：启动任务管理器，在详细信息里面关闭程序：msiexec.exe。重启 Adobe 安装程序即可。 破解方法：AMT.Emulator.v0.9.2， 选择需要激活的软件类型 点击Install，默认路径为：1C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat 选择amtlib.dll Done!]]></content>
@@ -14,7 +19,7 @@
   <entry>
     <title><![CDATA[STL Remove 的用法]]></title>
     <url>%2F2017%2F07%2F26%2F2017-07-26-Remove%2F</url>
-    <content type="text"><![CDATA[]]></content>
+    <content type="text"><![CDATA[假设标准的STL]]></content>
       <categories>
         <category>C++ 语法</category>
       </categories>
